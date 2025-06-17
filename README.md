@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me https://www.arjav04.lol/
+
 
 <!---
 krimas04/krimas04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
